@@ -39,14 +39,6 @@ Los conejos tienen comportamientos instintivos que pueden parecer extraños pero
 
 ---
 
-## Ignorar / dar la espalda
-- Se aleja de ti y te da la espalda deliberadamente.
-- Significa **enfado o desaprobación**.
-- Puede ocurrir si lo has molestado, cogido sin querer o cambiado algo de su espacio.
-- Dale tiempo y ofrece un premio para reconciliarte.
-
----
-
 ## 📊 Guía rápida de orejas
 
 | Posición | Significado |

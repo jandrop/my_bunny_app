@@ -7,9 +7,9 @@ Un conejo sano y feliz necesita un entorno adecuado, higiene regular y atención
 ## 🐰 Necesidades básicas
 
 Un conejo necesita:
-- **Vida en libertad** sin jaulas.
+- **Alojamiento seguro** y espacioso.
 - **Dieta equilibrada** (80% heno, 15% verduras, 5% pienso).
-- **Ejercicio diario** en espacios amplios.
+- **Ejercicio diario** fuera de la jaula.
 - **Compañía** (son animales muy sociales).
 - **Visitas veterinarias** anuales.
 
@@ -17,15 +17,10 @@ Un conejo necesita:
 
 ## 🏡 Alojamiento ideal
 
-### Lo más importante: LIBERTAD
-- Los conejos **NO deben vivir en jaulas**.
-- Necesitan moverse libremente por un espacio seguro.
-- Si necesitas delimitar una zona, usa **recintos amplios** (nunca jaulas pequeñas).
-
-### Espacio mínimo
-- Debe poder dar al menos **3 saltos** seguidos en cualquier dirección.
-- Acceso a un área de ejercicio de mínimo **3 m²**.
-- Cuanto más espacio, mejor para su salud física y mental.
+### Tamaño mínimo
+- **Mínimo:** 120 x 60 cm para un conejo.
+- Lo ideal es un espacio donde pueda dar al menos **3 saltos** seguidos.
+- Cuanto más grande, mejor.
 
 ### Tipo de suelo
 - Evita suelos de rejilla → pueden causar **pododermatitis** (llagas en las patas).
@@ -117,18 +112,40 @@ Los dientes de conejo crecen **continuamente** (2–3 mm por semana).
 
 ## 🏃 Ejercicio diario
 
-Un conejo necesita **mínimo 3–4 horas** de ejercicio en espacios amplios al día.
+Un conejo necesita **mínimo 3–4 horas** de ejercicio fuera de la jaula al día.
 
 ### Beneficios
 - Previene la obesidad.
 - Mejora la digestión.
 - Reduce el aburrimiento y comportamientos destructivos.
-- Fortalece músculos y huesos.
 
 ### Zona segura
 - Protege los cables eléctricos.
 - Retira plantas tóxicas.
 - Bloquea accesos a zonas peligrosas.
-- Vigila que no muerda elementos de juguetes que no debe (cartón plastificado, telas sintéticas).
+
+---
+
+## 🚨 Señales de alerta
+
+Acude al veterinario **inmediatamente** si observas:
+- No come ni bebe en más de 8 horas.
+- No defeca o hace cacas muy pequeñas.
+- Dientes desalineados o babeo.
+- Inclinación de cabeza.
+- Dificultad para respirar.
+- Apatía extrema.
+
+---
+
+## ✅ Checklist de cuidados
+
+- [ ] Heno fresco disponible 24/7
+- [ ] Agua limpia a diario
+- [ ] Limpieza del arenero diaria
+- [ ] Cepillado semanal
+- [ ] Corte de uñas mensual
+- [ ] Revisión veterinaria anual
+- [ ] Ejercicio diario fuera de la jaula
 
 ---
