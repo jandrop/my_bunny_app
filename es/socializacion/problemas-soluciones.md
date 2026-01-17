@@ -45,3 +45,31 @@ A veces la vinculación no va bien. Aquí te explicamos cómo manejar las situac
 - Considera un **servicio de vinculación** profesional.
 
 ---
+
+## 💔 Pérdida de un compañero
+
+Cuando un conejo muere, el superviviente puede sufrir un duelo real.
+
+### Señales de duelo
+- Deja de comer o come menos.
+- Se vuelve apático o triste.
+- Busca a su compañero por la casa.
+- Mayor necesidad de atención humana.
+
+### Qué hacer
+- **Permite que vea el cuerpo** → le ayuda a entender que se ha ido.
+- Dale más atención y compañía.
+- Mantén su rutina lo más normal posible.
+- Ofrece sus verduras favoritas para estimular el apetito.
+
+### Cuándo preocuparse
+- Si no come nada en más de **12 horas** → veterinario urgente.
+- Si la apatía dura más de una semana sin mejoría.
+
+### Nuevo compañero
+- No lo fuerces a vincularse inmediatamente.
+- Espera a que se recupere emocionalmente.
+- Cuando esté listo, considera adoptar otro conejo.
+- El duelo puede durar **semanas o meses**.
+
+---
