@@ -28,9 +28,13 @@ Mezcla de plantas variadas.
 Más crujiente.  
 🐾 Genial para motivar a conejos que comen poco heno.
 
+### **Heno de festuca**
+Heno de hierba resistente y fibroso.
+🐾 Buena alternativa al Timothy, similar en nutrientes.
+
 ### **Heno de alfalfa**
-⚠️ **NO recomendado para adultos.**  
-Muy rico en calcio y proteínas.  
+⚠️ **NO recomendado para adultos.**
+Muy rico en calcio y proteínas.
 🐾 Útil solo para conejos bebé (< 6 meses), gestantes o en recuperación.
 
 ---

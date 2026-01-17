@@ -1,47 +1,53 @@
-# 🏠 Convivencia con humanos y duelo
+# 🏠 Convivencia con humanos
 
-Además de la compañía de otro conejo, tu relación con él también es importante.
+Además de la compañía de otro conejo, tu relación con él también es muy importante.
 
 ---
 
-## Convivencia con humanos
+## Cómo ganarte su confianza
 
-Aunque otro conejo es ideal, también necesitan vínculo contigo.
-
-### Cómo ganarte su confianza
 - **Siéntate en el suelo** → los conejos temen a los depredadores desde arriba.
 - **Deja que se acerque** → no lo persigas ni lo cojas.
 - **Ofrece premios** → verduras desde tu mano.
 - **Habla en voz baja** → los ruidos fuertes los asustan.
 - **Respeta su espacio** → no lo saques de su refugio.
 
-### Tiempo para confiar
-- Algunos conejos confían en días.
+---
+
+## Tiempo para confiar
+
+Cada conejo es diferente:
+- Algunos confían en **días**.
 - Otros tardan **meses**.
-- Los conejos rescatados pueden necesitar más tiempo.
+- Los conejos rescatados o con traumas pueden necesitar más tiempo.
 
 ---
 
-## 💔 Si pierden a su compañero
+## Señales de que confía en ti
 
-Cuando un conejo muere, el otro puede:
-- Dejar de comer.
-- Volverse apático.
-- Buscar a su compañero.
+- Se acerca a saludarte cuando llegas.
+- Se tumba relajado cerca de ti.
+- Acepta caricias sin huir.
+- Te lame (¡te está acicalando!).
+- Hace binkies (saltos de alegría) cuando te ve.
 
-### Qué hacer
-- Permite que vea el cuerpo (ayuda a entender).
-- Dale más atención y compañía.
-- Considera adoptar otro compañero cuando esté listo.
+---
 
-### Señales de duelo
-- Pérdida de apetito temporal.
-- Mayor necesidad de atención humana.
-- Búsqueda de su compañero.
+## Errores comunes
 
-### Recuperación
-- El duelo puede durar **semanas o meses**.
-- No lo fuerces a vincularse con otro conejo inmediatamente.
-- Consulta al veterinario si deja de comer más de 12 horas.
+- ❌ Cogerlo en brazos sin que esté preparado.
+- ❌ Perseguirlo para acariciarlo.
+- ❌ Hacer movimientos bruscos.
+- ❌ Gritar o hacer ruidos fuertes.
+- ❌ Obligarlo a interactuar cuando no quiere.
+
+---
+
+## 💡 Consejos
+
+- **La paciencia es clave** → no fuerces la relación.
+- **Rutina** → los conejos se sienten seguros con horarios predecibles.
+- **Premia el acercamiento** → refuerza positivamente cuando se acerca.
+- **Respeta su personalidad** → algunos conejos son más independientes.
 
 ---
